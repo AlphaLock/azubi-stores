@@ -12,4 +12,7 @@ This program analysis the performance of Azubi stores and
 #     -based on the new prices, which products are less than GHC30 
 
 
+Im am learning data analysis with Azubi 
+
+
 This is getting interesting 
