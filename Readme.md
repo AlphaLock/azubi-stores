@@ -10,3 +10,6 @@ This program analysis the performance of Azubi stores and
 #     -calculate the average daily revenue generated from the products
 
 #     -based on the new prices, which products are less than GHC30 
+
+
+This is getting interesting 
