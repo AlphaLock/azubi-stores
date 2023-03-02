@@ -16,3 +16,6 @@ Im am learning data analysis with Azubi
 
 
 This is getting interesting 
+
+# Author
+Richmond Elikplim Yao Abake
